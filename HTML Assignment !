@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment II</title>
+</head>
+<body>
+    <h1>Fowosere Community Development Association Survey</h1>
+    <p>Fowosere community is a well known community in Ajanlekoko local government area 
+        of Sebasoke fewedugba state in Ejalonibu Country. Its inhabitants comprises of the middle class strata
+        of the society. This questionnaire aims to get the  general perception of the inhabitants across all available demography 
+        on the area.
+    </p>
+    <p> <strong>INFORMATION GATHERED REMAINS CONFIDENTIAL</strong> </p>
+    <p><h4><em>Kindly fill spaces/tick as appropraite. Thank you</em></h4></p>
+    <p>
+    <ul> <li>Name <p><textarea placeholder="last name first" name="" id="" cols="50" rows="3"></textarea></li> </p> </ul>
+    <ul>
+        <li> Address <p><textarea name="" id="" cols="60" rows="3"></textarea></p> </li>
+    </ul>
+    </p>
+    
+</body>
+</html>
